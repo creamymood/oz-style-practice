@@ -24,7 +24,6 @@ $tag-color: #d7fa00;
 $gray: rgb(160, 160, 160);
 
 
-
 .header-container {
   @include flex($justify: space-between, $align: center);
   padding: 20px 20px;
